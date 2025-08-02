@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36327.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlHelperDemoApp", "SqlHelperDemoApp\SqlHelperDemoApp.csproj", "{DF58CD53-44D1-40EA-938B-974414027AA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlHelperDemoApp.Tests", "SqlHelperDemoApp.Tests\SqlHelperDemoApp.Tests.csproj", "{8E1E2521-B16A-4D6B-8D06-FDB425490207}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF58CD53-44D1-40EA-938B-974414027AA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF58CD53-44D1-40EA-938B-974414027AA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF58CD53-44D1-40EA-938B-974414027AA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF58CD53-44D1-40EA-938B-974414027AA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E1E2521-B16A-4D6B-8D06-FDB425490207}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E1E2521-B16A-4D6B-8D06-FDB425490207}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E1E2521-B16A-4D6B-8D06-FDB425490207}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E1E2521-B16A-4D6B-8D06-FDB425490207}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {434BBB83-83E5-4288-8A5B-F0425482A144}
+	EndGlobalSection
+EndGlobal
